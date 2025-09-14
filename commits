@@ -1,0 +1,5 @@
+git add .
+git commit -m "Created basic structure and index.html"
+git commit -m "Added second page with content and internal link"
+git commit -m "Added image and finished semantic tags"
+git push
